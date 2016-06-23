@@ -1,2 +1,3 @@
-# triangulation
-Delaynay triangulation
+# Algorithms
+Javascript algorithms
+
